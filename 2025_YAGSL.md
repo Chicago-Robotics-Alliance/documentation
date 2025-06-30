@@ -58,4 +58,4 @@ This is documentation for setting up YAGSL for swerve drive.
 ~~~
 - change the IDs of drive based on your motor IDs
 - change the type based on your motor type [using the bottom of this page](https://docs.yagsl.com/devices/motor-controllers)
-- follow this [documentation](https://docs.yagsl.com/configuring-yagsl/configuration/swerve-module-configuration) to get more information for each feature in the config jsons and refer to your past swerve code to find the values.
+- follow this [documentation](https://docs.yagsl.com/configuring-yagsl/configuration/swerve-module-configuration) to get more information for each feature in the config jsons, refer to your past swerve code to find the values, and your manufacturer.
