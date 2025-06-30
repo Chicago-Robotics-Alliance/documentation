@@ -4,7 +4,7 @@ This is documentation for setting up YAGSL for swerve drive.
 ---
 ## Walkthrough
 
-1. Fork the repository
+1. Fork the [repository](https://github.com/Chicago-Robotics-Alliance/2025_CRA_Commons)
 2. Make sure that the owner of the fork is your team's organization.
 3. Clone this forked repository and open it in WPILib VS Code.
 4. Find the folder ```~/src/main/deploy/swerve/(some file name that holds all the java files)```
@@ -58,4 +58,4 @@ This is documentation for setting up YAGSL for swerve drive.
 ~~~
 - change the IDs of drive based on your motor IDs
 - change the type based on your motor type [using the bottom of this page](https://docs.yagsl.com/devices/motor-controllers)
-- follow this [documentation](https://docs.yagsl.com/configuring-yagsl/configuration/swerve-module-configuration) to get more information for each feature in the config jsons, refer to your past swerve code to find the values, and your manufacturer.
+- follow this [documentation](https://docs.yagsl.com/configuring-yagsl/configuration/swerve-module-configuration) to get more information for each feature in the config jsons, refer to your past swerve code to find the values, and your manufacturer of your model.
