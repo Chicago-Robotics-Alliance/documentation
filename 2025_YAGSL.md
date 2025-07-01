@@ -27,3 +27,15 @@ This is documentation for setting up YAGSL for swerve drive.
 - find the drive and steer gear ratios: find them from your swerve drive manufacturer.
 - the diameter is the wheel diameter in inches (by default that is 4, which might be correct already).
 - The gear ratios are probably the hardest to find.
+
+```pidfproperties.json``` -
+
+
+---
+## Troubleshooting
+Probably want some images here....
+Using Advantage Scope to identify and fix the error.
+1. Connection steps
+2. Check your gyro - manually turn the robot clockwise and anti-clockwise and ensure that you see the same direction on your robot.
+3. Click on AdvantageKit and then SwerveDrive
+4. Click on Swerve
