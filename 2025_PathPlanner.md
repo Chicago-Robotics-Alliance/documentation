@@ -16,7 +16,7 @@ You have to change nothing in the code if you are planning on using one of those
 1. Deploy Robot Code
 2. Open Shuffleboard
 3. Find the widget ```Auto Chooser```
-4. Select the ```Drive Forward Auto```, ```FIND THE NAME```, ```FIND THE NAME```.
+4. Select the ```Drive Forward Auto```, ```Wait Drive Auto```, ```None```.
 5. If you want to wait then move forward: enter a number in the widge ```Wait Time```. This number signifies the time that the robot will wait in __seconds__ before moving forward. The default is set to be 5 seconds.
 
 ---
