@@ -29,7 +29,8 @@ This is documentation for setting up YAGSL for swerve drive.
 - The gear ratios are probably the hardest to find.
 
 ```pidfproperties.json``` -
-
+- you can find some starting PIDF values based on your module [here](https://docs.yagsl.com/configuring-yagsl/how-to-tune-pidf)
+- on that website, there are some tips and explanations for PID tuning.
 
 ---
 ## Troubleshooting
