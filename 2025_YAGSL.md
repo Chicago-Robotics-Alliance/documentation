@@ -25,5 +25,5 @@ This is documentation for setting up YAGSL for swerve drive.
 
 ```physicalproperties.json``` - 
 - find the drive and steer gear ratios: find them from your swerve drive manufacturer.
-- the diameter is the for your wheel diameter in inches (by default that is 4, which might be correct already).
+- the diameter is the wheel diameter in inches (by default that is 4, which might be correct already).
 - The gear ratios are probably the hardest to find.
