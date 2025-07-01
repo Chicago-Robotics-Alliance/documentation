@@ -21,7 +21,7 @@ You have to change nothing in the code if you are planning on using one of those
 
 ---
 ## How can you change them?
-Most of this can be done on PathPlanner. On PathPlanner, make sure you have opened the directory of the forked repo.
+Most of this can be done on [PathPlanner](https://pathplanner.dev/gui-getting-started.html). On PathPlanner, make sure you have opened the directory of the forked repo.
 
 To change anything about driving forward: click on the drive forward path.
 
