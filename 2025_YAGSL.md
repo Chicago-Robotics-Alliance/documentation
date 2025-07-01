@@ -10,7 +10,7 @@ This is documentation for setting up YAGSL for swerve drive.
 4. Build the code: If you are in CPS you will probably not be able to access any of the referenced libraries in github.io so you might have to build at home. If you get errors trying to build the code that is probably because CPS is blocking github.io (look at errors and see if that is the case). Using a personal device and non-cps wifi at school would work.
 5. Edit .wpilib\wpilib_preferences.json, specifically the year and your team number.
 6. For all the next steps use [yagsl documentation](https://docs.yagsl.com/) as reference.
-7. Find the folder ```~/src/main/deploy/swerve/ava```
+7. Find the folder ```~/src/main/deploy/swerve/robot```
 8. Configure the JSON files. You can use [this website](https://broncbotz3481.github.io/YAGSL-Example/) to help.
 
 ```swervedrive.json``` -
