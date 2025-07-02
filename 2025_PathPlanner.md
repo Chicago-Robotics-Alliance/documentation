@@ -7,7 +7,7 @@ This is documentation to use the paths preset in the codebase.
 2. Wait for a custom number of seconds then drive forward for 0.5 m
 3. Nothing!
 
-Paths 1 and 2 should get you the autonomous points to leaving the starting zone.
+Paths 1 and 2 should get you the autonomous points for leaving the starting zone.
 
 ---
 ## How can you use them?
@@ -17,7 +17,7 @@ You have to change nothing in the code if you are planning on using one of those
 2. Open Shuffleboard
 3. Find the widget ```Auto Chooser```
 4. Select the ```Drive Forward Auto```, ```Wait Drive Auto```, ```None```.
-5. If you want to wait then move forward: enter a number in the widge ```Wait Time```. This number signifies the time that the robot will wait in __seconds__ before moving forward. The default is set to be 5 seconds.
+5. If you want to wait then move forward: enter a number in the widget ```Wait Time```. This number signifies the time that the robot will wait in __seconds__ before moving forward. The default is set to be 5 seconds.
 
 ---
 ## How can you change them?
